@@ -13,6 +13,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun showToast() {
-        Toast.makeText(this, "Hello", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Hello World!", Toast.LENGTH_LONG).show()
     }
 }
